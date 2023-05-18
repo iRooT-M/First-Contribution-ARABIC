@@ -1352,6 +1352,71 @@
         </td>
     </tr>
     <!--// IBRAHIM //-->
-                
+     <!--=== MoHamMEd aLRooT - محمد الروت ===-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/iRooT-M">
+                <img src="https://avatars.githubusercontent.com/u/38965799?v=4" width="50">
+                <br>
+                <h2>MoHamMEd aLRooT - محمد الروت </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/iroot_m">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mohammed-alroot-693932231/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/@RooT.M">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- SNAPCHAT -->
+                    <td>
+                        <a href="https://www.snapchat.com/add/iroot.m">
+                            <img src="https://1000logos.net/wp-content/uploads/2017/08/Snapchat-logo-1536x864.png" width="30">
+                        </a>
+                    </td>
+                    <!--// SNAPCAHT //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/iro0ot/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TIKTOK -->
+                    <td>
+                        <a href="https://www.tiktok.com/@iroot.m">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/iRooT-M">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- ======== MoHamMEd aLRooT - محمد الروت ========= -->           
 </table>
 <!--// CONTRIBUTER //-->
